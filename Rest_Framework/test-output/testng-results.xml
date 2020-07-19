@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2020-07-19T04:46:40 IST" name="Default suite" finished-at="2020-07-19T04:46:44 IST" duration-ms="4070">
+  <suite started-at="2020-07-19T15:56:31 IST" name="Default suite" finished-at="2020-07-19T15:56:36 IST" duration-ms="5488">
     <groups>
     </groups>
-    <test started-at="2020-07-19T04:46:40 IST" name="Default test" finished-at="2020-07-19T04:46:44 IST" duration-ms="4070">
+    <test started-at="2020-07-19T15:56:31 IST" name="Default test" finished-at="2020-07-19T15:56:36 IST" duration-ms="5488">
       <class name="Rest_Framework.Rest_Framework.AppTest">
-        <test-method signature="test_GetHealcheck()[pri:0, instance:Rest_Framework.Rest_Framework.AppTest@78dd667e]" started-at="2020-07-19T04:46:40 IST" name="test_GetHealcheck" finished-at="2020-07-19T04:46:43 IST" duration-ms="3700" status="PASS">
+        <test-method signature="test_GetHealcheck()[pri:0, instance:Rest_Framework.Rest_Framework.AppTest@197d671]" started-at="2020-07-19T15:56:31 IST" name="test_GetHealcheck" finished-at="2020-07-19T15:56:35 IST" duration-ms="4532" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_GetHealcheck -->
-        <test-method signature="test_GetHeartbeat()[pri:0, instance:Rest_Framework.Rest_Framework.AppTest@78dd667e]" started-at="2020-07-19T04:46:43 IST" name="test_GetHeartbeat" finished-at="2020-07-19T04:46:44 IST" duration-ms="322" status="PASS">
+        <test-method signature="test_GetHeartbeat()[pri:0, instance:Rest_Framework.Rest_Framework.AppTest@197d671]" started-at="2020-07-19T15:56:36 IST" name="test_GetHeartbeat" finished-at="2020-07-19T15:56:36 IST" duration-ms="902" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_GetHeartbeat -->
